@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HandofSeth2';
+    src: url('fonts/HandofSeth2.eot');
+    src: url('fonts/HandofSeth2.eot') format('embedded-opentype'),
+         url('fonts/HandofSeth2.woff2') format('woff2'),
+         url('fonts/HandofSeth2.woff') format('woff'),
+         url('fonts/HandofSeth2.ttf') format('truetype'),
+         url('fonts/HandofSeth2.svg#HandofSeth2') format('svg');
+}
